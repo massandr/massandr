@@ -16,13 +16,24 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.12.2/icons/x.svg" />][X]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://x.com/60641k" target="_blank">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" alt="X" width="32px" style="margin-right:10px;" />
+</a>
 
-[X]: https://x.com/60641k
-[instagram]: https://www.instagram.com/massandr23
-[linkedin]: https://linkedin.com/in/massandr
+<a href="https://linkedin.com/in/massandr" target="_blank">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" alt="LinkedIn" width="32px" style="margin-right:10px;" />
+</a>
+
+<a href="https://www.instagram.com/massandr23" target="_blank">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png" alt="Instagram" width="32px" />
+</a>
+
+
+
+
+
+
+
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
