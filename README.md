@@ -16,11 +16,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="___________ | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@14.12.2/icons/x.svg" />][X]
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/60641k
+[X]: https://x.com/60641k
 [instagram]: https://www.instagram.com/massandr23
 [linkedin]: https://linkedin.com/in/massandr
 
