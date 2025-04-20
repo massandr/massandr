@@ -16,21 +16,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🤳 Connect With Me
 
-<a href="https://x.com/60641k" target="_blank">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" alt="X" width="32px" style="margin-right:10px;" />
-</a>
-
-<a href="https://linkedin.com/in/massandr" target="_blank">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" alt="LinkedIn" width="32px" style="margin-right:10px;" />
-</a>
-
-<a href="https://www.instagram.com/massandr23" target="_blank">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png" alt="Instagram" width="32px" />
-</a>
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelWidth=110)](https://linkedin.com/in/massandr)
+[![X](https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=x&logoColor=white&labelWidth=110)](https://x.com/60641k)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelWidth=110)](https://www.instagram.com/massandr23)
 
 
 
