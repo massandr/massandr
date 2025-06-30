@@ -6,11 +6,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/massandr/Vulnerabily-management-program/)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/massandr)**
-
+- **[STIG Implementations (PowerShell)](https://github.com/massandr/massandr-public/tree/main/STIGs)**
+  
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/massandr)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/massandr/threat-hunting-scenario-TOR/)**
 
 <hr/>
 
