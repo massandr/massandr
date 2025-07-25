@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/massandr/threat-hunting-scenario-TOR/)**
+- **[Threat Hunting Report: The Lurker](https://github.com/massandr/Threat-hunt-report-Lurker)**
 
 <hr/>
 
